@@ -1,1 +1,1 @@
-# ML-miniPjoject1
+# ML-miniProjects
